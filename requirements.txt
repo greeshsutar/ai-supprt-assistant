@@ -1,0 +1,10 @@
+streamlit
+groq==0.36.0
+sentence-transformers
+langchain
+langchain_openai
+langchain-community
+langchain-text-splitters
+chromadb
+python-dotenv
+pandas

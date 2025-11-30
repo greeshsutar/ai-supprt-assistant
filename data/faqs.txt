@@ -1,0 +1,17 @@
+Q: What are your business hours?
+A: Our support team is available from 9 AM to 7 PM, Monday to Saturday.
+
+Q: How can I reset my password?
+A: You can reset your password using the "Forgot Password" option on the login page.
+
+Q: What is your refund policy?
+A: Refunds can be requested within 7 days of purchase, subject to approval.
+
+Q: How do I cancel my subscription?
+A: Navigate to “Manage Subscription” and click “Cancel”.
+
+Q: Will my subscription auto-renew?
+A: Yes, unless manually turned off in billing settings.
+
+Q: I forgot my password. What should I do?
+A: Use the “Forgot Password” option on the login page to reset your password.
