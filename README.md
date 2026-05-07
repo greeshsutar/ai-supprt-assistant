@@ -169,6 +169,6 @@ Deploy using Docker or HuggingFace Spaces
 
 9. Demo Link
 🔗 Live Demo:
-https://<your-streamlit-cloud-url>
+[https://<your-streamlit-cloud-url>](https://ai-supprt-assistant-kyethmmhy4wkw2ygec4iwy.streamlit.app/)
 
 
